@@ -1,0 +1,14 @@
+Front-end web development focuses on the user-facing side of websites and web applications. It involves creating everything users see and
+interact with in their browser, ensuring a visually appealing, responsive, and intuitive experience.
+
+
+Web development's backend refers to the server-side of a website or application, handling all the unseen processes like managing the database, 
+application logic, and user authentication. It processes requests from the user's browser (the frontend), sends data back for display, and 
+ensures the application runs correctly and securely. Key responsibilities include building and managing servers, databases, and APIs 
+(Application Programming Interfaces).
+
+
+Databases are fundamental components of web development, serving as organized storage systems for all the data a web application needs to 
+function. This includes user information, content, product details, transaction records, and more.
+
+ 
