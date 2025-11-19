@@ -1,0 +1,14 @@
+SDLC
+
+SDLC, or Software Development Life Cycle, is a process used to plan, create, test, and maintain software in a structured and efficient manner.
+It is a framework that helps teams produce high-quality software that meets user requirements, is delivered on time and within budget, and can
+be maintained and enhanced over time. Key phases typically include requirements gathering, design, coding, testing, deployment, and maintenance.
+
+Key phases of the SDLC
+Planning and Requirement Analysis: Gathering and analyzing the project's requirements to define the scope and plan the development.
+Design: Creating a detailed design, including architecture and user interface, based on the requirements.
+Implementation (Coding): Writing the actual code according to the design specifications.
+Testing: Verifying that the software works as expected by finding and fixing bugs.
+Deployment: Releasing the software to the production environment so users can access it.
+Maintenance: Ongoing support and updates to the software after it has been deployed, which can include fixing new bugs or adding new features. 
+ 
