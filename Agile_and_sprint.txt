@@ -1,0 +1,16 @@
+Agile 
+
+Agile is an approach to project management that centres around incremental and iterative steps to completing projects. The incremental parts of
+a project are carried out in short-term development cycles. The approach prioritises quick delivery, adapting to change, and collaboration
+rather than top-down management and following a set plan. In Agile processes, there is constant feedback, allowing for team members to adjust 
+to challenges as they arise and for stakeholders an opportunity to communicate consistently. Though originally created for software development, 
+the Agile approach is now widely used to execute many different types of projects and run organisations. Contrast this with more traditional
+forms of project management. Traditional project management generally progresses linearly. Moving from planning, designing, implementation and 
+closing stages happen after the previous stage is complete. 
+
+Sprint 
+
+a short, high-speed burst of activity, most commonly referring to a short-distance running race in athletics. However, the term is also used in 
+project management to describe a short, time-boxed period of work (in the Scrum methodology) and in motorsports to denote a timed race on 
+a circuit.
+ 
