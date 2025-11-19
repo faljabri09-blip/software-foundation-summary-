@@ -28,4 +28,12 @@ Blazor: This is a .NET web framework for building interactive client-side web UI
 web applications using C# instead of JavaScript, enabling full-stack web development within the .NET ecosystem. Blazor can run on the 
 client-side in the browser (Blazor WebAssembly) or on the server (Blazor Server). 
 
+
+Comparison C#, java and Python 
+C# and Java: Both are statically-typed, object-oriented languages with C-style syntax using braces for code blocks. They are compiled to an 
+intermediate bytecode (Common Language Runtime for C#, Java Virtual Machine for Java) which is then executed.
+
+Python: Dynamically-typed and supports multiple paradigms (object-oriented, imperative, functional). It utilizes indentation for code blocks, 
+emphasizing readability and a simpler syntax.
+
  
