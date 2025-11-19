@@ -9,6 +9,23 @@ ensures the application runs correctly and securely. Key responsibilities includ
 
 
 Databases are fundamental components of web development, serving as organized storage systems for all the data a web application needs to 
-function. This includes user information, content, product details, transaction records, and more.
+function. This includes user information, content, product details, transaction records, and more. 
+
+
+The provided list outlines key components of the .NET stack, particularly relevant for full-stack web development:
+C#: This is the primary programming language for the .NET platform. It is a modern, object-oriented language used for building a wide range of 
+applications, including web, desktop, mobile, and cloud services.
+
+EF Core (Entity Framework Core): This is an open-source, cross-platform object-relational mapper (ORM) for .NET. It allows developers to 
+interact with databases using C# objects, eliminating the need to write raw SQL queries for many common data operations. EF Core handles tasks 
+like mapping C# classes to database tables, generating SQL queries, and managing database migrations.
+
+LINQ (Language Integrated Query): This is a powerful feature of C# that provides a unified way to query data from various sources, including 
+collections, databases (via EF Core), XML, and more. LINQ allows developers to write expressive, type-safe queries directly within their C# code,
+improving readability and maintainability.
+
+Blazor: This is a .NET web framework for building interactive client-side web UI with C#. Blazor allows developers to create rich, interactive 
+web applications using C# instead of JavaScript, enabling full-stack web development within the .NET ecosystem. Blazor can run on the 
+client-side in the browser (Blazor WebAssembly) or on the server (Blazor Server). 
 
  
